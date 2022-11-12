@@ -10,7 +10,7 @@
 
 - [x] I used the ```GCP```, after that i created the MHN Admin VM via. VM needs to have an internet-facing IP and accessible to you via SSH. After that i run the GCP Users Firewall Setup. 
 
-<img src="mhn-admin.gif">
+<img src="MHN-Admin.gif">
 
 ### Dionaea Honeypot Deployment (Required)
 
