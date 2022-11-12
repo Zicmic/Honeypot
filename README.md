@@ -17,7 +17,7 @@
 **Summary:** Briefly in your own words, what does dionaea do?
 - [x] Dionaea is a honeypot with little involvement that catches assault payloads and malware. Dionaea is intended to be a Nepenthes replacement, using Python as the software program, libemu to identify shellcodes, and support for IPv6 and TLS.
 
-<img src="dionaea-honeypot.gif">
+<img src="Dionaea Honeypot Deployment.gif">
 
 ### Database Backup (Required) 
 
