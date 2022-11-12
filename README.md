@@ -15,11 +15,13 @@
 ### Dionaea Honeypot Deployment (Required)
 
 **Summary:** Briefly in your own words, what does dionaea do?
+- [x] Dionaea is a honeypot with little involvement that catches assault payloads and malware. Dionaea is intended to be a Nepenthes replacement, using Python as the software program, libemu to identify shellcodes, and support for IPv6 and TLS.
 
 <img src="dionaea-honeypot.gif">
 
 ### Database Backup (Required) 
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
+- [x] Ubuntu is the RDBMS that MHN-Admin uses. The exported JSON file record contains specific data on the nature of the attacks and where they came from such as the IP address, session ID, and such.
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
